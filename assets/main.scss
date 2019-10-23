@@ -1,0 +1,15 @@
+---
+---
+
+@import "minima";
+
+@font-face {
+font-family: 'Dalek Pinpoint Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Dalek Pinpoint Bold'), url('DalekPinpointBold.woff') format('woff');
+}
+
+h2 {
+    font-family: 'Dalek Pinpoint Bold';
+}
